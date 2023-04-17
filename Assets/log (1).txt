@@ -1,0 +1,82 @@
+There are total 16 supported mouse buttons
+Allegro5 initialized
+Game begin
+loaded font: pirulen.ttf with size 32
+loaded font: pirulen.ttf with size 24
+loaded font: pirulen.ttf with size 50
+loaded font: pirulen.ttf with size 18
+Menu scene created
+Change scene from (unnamed) to Menu
+loaded image: main-bg.jpg
+resized image: main-bg.jpg
+loaded image: record.png
+resized image: record.png
+loaded image: record2.png
+resized image: record2.png
+loaded image: money.png
+resized image: money.png
+loaded audio: S31-Night Prowler.ogg
+played audio (bgm)
+Menu scene initialized
+Game initialized
+Game start event loop
+Key with keycode 67 down
+Start scene created
+Change scene from Menu to Start
+stop audio (bgm)
+Menu scene destroyed
+loaded image: 12.jpg
+resized image: 12.jpg
+loaded image: bulletused.png
+resized image: bulletused.png
+loaded image: money.png
+resized image: money.png
+loaded image: money.png
+resized image: money.png
+loaded audio: shoot.mp3
+loaded audio: collect.mp3
+loaded audio: rocket.mp3
+loaded image: plane.png
+resized image: plane.png
+loaded image: smallfighter0006.png
+loaded image: image12.png
+loaded image: ufo-1.png
+loaded image: enemybullet2.png
+resized image: enemybullet2.png
+loaded image: heart2.png
+resized image: heart2.png
+loaded image: tank-1.png
+resized image: tank-1.png
+loaded image: rocket-1.png
+resized image: rocket-1.png
+loaded audio: mythica.ogg
+Start scene initialized
+played audio (bgm)
+Key with keycode 67 up
+Key with keycode 75 down
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+played audio (once)
+Key with keycode 75 up
+Window close button clicked
+Game end
+stop audio (bgm)
+Start scene destroyed
